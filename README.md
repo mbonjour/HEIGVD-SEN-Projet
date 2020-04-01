@@ -1,8 +1,8 @@
 # Projet SEN : Spear Phishing
 
-**ATTENTION : Compte tenu des règles éthiques, veuillez suivre attentivement les règles que nous vous décrivons. Nous ne seront pas tenus responsables si vous vous mettez en mauvaise posture avec vos actions.**
+**ATTENTION : Compte tenu des implications éthiques importantes concernant ce travail, veuillez suivre attentivement les règles que nous vous décrivons. Nous ne seront pas tenus responsables si vous vous mettez en mauvaise posture avec vos actions.**
 
-**Le rendu consiste en un rapport à rendre au format PDF. Vous transmettrez le rapport par email au professeur Abraham Rubinstein ainsi qu'à l'assistant Yann Lederrey.**
+**Le rendu consiste en un rapport à rendre au format PDF. Vous transmettrez le rapport utilisant l'interface du "devoir" correspondant sur le site Cyberlearn du cours.**
 
 **Le travail est à effectuer par groupes de 2.**
 
