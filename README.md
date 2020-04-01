@@ -204,9 +204,9 @@ Nous ne proposons pas de structure définie ou d'exemple. Vous avez suffisamment
 
 Vous pouvez vous inspirer sur la structure de base d'un rapport d'audit, et remplir les éléments que vous aurez à disposition suite à vos recherches.
 
-Soyez concis dans vos explications. Nous demandons un rapport technique, structuré. Pas une dissertation de 50 pages.
+Soyez concis dans vos explications. Nous demandons un rapport technique et structuré, pas une dissertation de 50 pages.
 
 
 ## Echéance
 
-Ce travail devra être rendu le dimanche après la fin de la 2ème séance de laboratoire, soit au plus tard, **le 11 juin 2020, à 23h59.**
+Ce projet devra être rendu en PDF utilisant le "devoir" sur la page Cyberlearn du cours au plus tard **le 11 juin 2020, à 23h59.**
